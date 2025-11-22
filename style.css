@@ -1,1 +1,6 @@
+body {
+  margin: 0;
+  background: black;
+  overflow: hidden;
+}
 
